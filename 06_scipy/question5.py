@@ -50,7 +50,7 @@ result=optimize.minimize(negative_my_g, x0=2.5, bounds=optimize.Bounds(0, 5, kee
 # to be added to the integral from the interval [2-epsilon,2] for small enough
 # epsilon. This isn't a wholy unreasonable assumption, given that the sine 
 # function alternates but to prove this would need a lot of formal mathematics
-# to justify more rigourously! 
+# for rigourous justification! 
 #
 # ----------------------------------------------------------------------------
 # This function must return the value of f(x,y)

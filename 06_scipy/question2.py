@@ -20,7 +20,7 @@ print(stats.ttest_1samp(sample3, popmean=0))
 print(stats.ttest_1samp(sample4, popmean=0))
 
 # When I ran this I found all 3 tested provided no evidence that the samples
-# were drawn from a population with zero mean.
+# were not drawn from a population with zero mean.
 
 # -------------------------------------------------------------------------
 #

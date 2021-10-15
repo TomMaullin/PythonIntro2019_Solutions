@@ -1,0 +1,9 @@
+Notes for future nbs:
+
+ - nb 09 Deep learning
+ - touch up inheritance in nb 08, add multiple inheritance and polymorhism
+ - add note to nb 01 about `and` vs `&`
+	`and`: https://stackoverflow.com/questions/49658308/how-does-the-logical-and-operator-work-with-integers
+	`&`: bitwise
+ - Touch up nb 07 and add plotly (crypto example)
+ 

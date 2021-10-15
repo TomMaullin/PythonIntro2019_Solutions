@@ -21,6 +21,6 @@
 #   features.
 # - If you're using inheritance for OOP (which is very likely) it can sometimes become quite tricky
 #   to keep track of which method is coming from where (e.g. `am I running the code from my class, 
-#   or from some superclass of my class?`, see the answer to question 4 for a particularly nasty
+#   or from some superclass of my class?`, see the answer to question 3 for a particularly nasty
 #   example of this). This can make debugging a bit of a nightmare!
 # ---------------------------------------------------------------------------------------------------
